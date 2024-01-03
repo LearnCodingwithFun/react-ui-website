@@ -39,8 +39,6 @@ npm run dev   # or yarn dev
 
 Visit http://localhost:3000 in your browser.
 
-Scripts
-npm run dev: Start the development server.
-npm run build: Build the project for production.
-npm run serve: Serve the production build locally.
-Feel free to add more scripts based on your project requirements.
+Final project lookup
+
+![Add a heading](https://github.com/LearnCodingwithFun/react-ui-website/assets/124258692/00f54a20-4db7-4caa-9258-0df76e76fd64)
